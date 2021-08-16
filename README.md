@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @TwoSimsLight. I'm creating an horror server on SAMP 0.3DL called ''Friday the 13th''. Inspired by friday the 13th: the game.
+- 👀
